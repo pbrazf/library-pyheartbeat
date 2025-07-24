@@ -1,3 +1,4 @@
-dist/
-build/
+.dist/
+.build/
 .vscode/
+./*.egg-info/
