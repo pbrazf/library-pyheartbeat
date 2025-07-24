@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import io
 
-version = '0.0.9'
+version = '0.0.10'
 readme = io.open('README.md', encoding='utf-8').read()
 
 setup(name='pyheartbeat',

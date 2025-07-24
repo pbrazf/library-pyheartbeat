@@ -112,8 +112,8 @@ def killHeartbeat(disable_schedule: bool = True):
 
 # Internal scheduler and config defaults
 _scheduler = None
-_start_hour = 9
-_end_hour = 18
+_start_hour = 8
+_end_hour = 19
 _days = 'mon,tue,wed,thu,fri'
 _tz = 'America/Sao_Paulo'
 

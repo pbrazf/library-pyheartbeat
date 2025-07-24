@@ -1,6 +1,6 @@
 Metadata-Version: 2.2
 Name: pyheartbeat
-Version: 0.0.9
+Version: 0.0.10
 Summary: Library for sending pulses to a process monitoring server
 Author: Pedro Ferreira Braz
 Author-email: pbraz.pedrof@gmail.com
